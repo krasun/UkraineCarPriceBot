@@ -1,7 +1,11 @@
 # UkraineAutoPriceBot
 
+[![Build Status](https://travis-ci.org/krasun/UkraineCarPriceBot.svg?branch=master)](https://travis-ci.org/krasun/UkraineCarPriceBot)
 
-    /price Audi Q4 2012 Kyiv    
+Usage: 
+
+    > Audi Q4 2012 Kyiv
+        
     Approximate average price of "Audi 34 2012 Kyiv" is $35000.
     
     
